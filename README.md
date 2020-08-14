@@ -34,3 +34,14 @@ C4 2.27%
 C5 1.9%
 C6 1.57%
 C7 2.83%
+
+Technical Choices:
+
+Opted to solve the problem with python as there are multiple packages available, used Pandas for data manipulation and transformation. 
+
+Additional Functionalities:
+
+1) Could have created GUI for better visualization of the provided data.
+2) Could have created pipeline so the system is updated realtime.
+3) Could have created more thorough test cases.
+
